@@ -1,0 +1,188 @@
+2022-08-26T14:19:35Z <INFO:emu.grasscutter.Grasscutter> config.json could not be found. Generating a default configuration ...
+2022-08-26T14:19:35Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-SG.json, falling back to: en-US.json
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'TowerSchedule.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'Spawns.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'SkillParticleGeneration.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'ShopChest.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'Shop.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'ReliquaryDecompose.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'GameAnnouncementList.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'GameAnnouncement.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'GadgetSpawns.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating data folder 'gacha/'
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'gacha/records.html' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'gacha/details.html' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'ExpeditionReward.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'EnergyDrop.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'DungeonDrop.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'Drop.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating data folder 'documentation/'
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'documentation/index.html' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'documentation/handbook.html' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'ChestReward.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'BlossomConfig.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'Banners.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'Announcement.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default 'ActivityConfig.json' data
+2022-08-26T14:19:36Z <INFO:emu.grasscutter.data.DataLoader> Creating default '.\data\gacha\mappings.js' data
+2022-08-26T14:19:37Z <INFO:emu.grasscutter.utils.Language> Generating TextMaps cache
+2022-08-26T14:19:37Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-08-26T14:19:39Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-08-26T14:19:41Z <INFO:emu.grasscutter.tools.Tools> Mappings generated to .\data\gacha\mappings.js !
+2022-08-26T14:19:41Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-08-26T14:19:41Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-08-26T14:19:41Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.0.0
+2022-08-26T14:19:41Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.3-dev-9768fc84
+2022-08-26T14:19:43Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started at [1m[33m127.0.0.1:443[0m
+2022-08-26T14:19:43Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-08-26T14:19:43Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started at [1m[33m127.0.0.1:22102[0m
+2022-08-26T14:19:43Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-08-26T14:20:30Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$PasswordAuthenticator> [Dispatch] Client 127.0.0.1 logged in as 10050.
+2022-08-26T14:20:30Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 127.0.0.1 is trying to log in.
+2022-08-26T14:20:30Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client 127.0.0.1 succeed to exchange combo token.
+2022-08-26T14:20:30Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 127.0.0.1 is trying to log in.
+2022-08-26T14:21:02Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> [Dispatch] Client 127.0.0.1 request: query_region_list
+2022-08-26T14:21:08Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$PasswordAuthenticator> [Dispatch] Client 127.0.0.1 failed to log in: Account not found.
+2022-08-26T14:21:08Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 127.0.0.1 is trying to log in.
+2022-08-26T14:21:22Z <INFO:emu.grasscutter.command.CommandHandler> Account created with UID 0.
+2022-08-26T14:21:24Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$PasswordAuthenticator> [Dispatch] Client 127.0.0.1 logged in as 10051.
+2022-08-26T14:21:24Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 127.0.0.1 is trying to log in.
+2022-08-26T14:21:24Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client 127.0.0.1 succeed to exchange combo token.
+2022-08-26T14:21:24Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 127.0.0.1 is trying to log in.
+2022-08-26T14:21:27Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 127.0.0.1 request: query_cur_region/os_usa
+2022-08-26T14:21:39Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from /127.0.0.1:53296
+2022-08-26T14:22:49Z <INFO:emu.grasscutter.game.activity.ActivityManager> Enable 1 activities.
+2022-08-26T14:23:59Z <ERROR:emu.grasscutter.scripts.ScriptLoader> Loading script .\resources\Scripts\Scene\3\scene3_group133102769.lua failed!
+javax.script.ScriptException: eval threw javax.script.ScriptException: [string "script"]:1304: unexpected symbol 47 (/)
+	at org.luaj.vm2.script.LuaScriptEngine.compile(Unknown Source)
+	at emu.grasscutter.scripts.ScriptLoader.getScriptByPath(ScriptLoader.java:124)
+	at emu.grasscutter.scripts.data.SceneGroup.load(SceneGroup.java:87)
+	at emu.grasscutter.game.world.WorldDataSystem.getInvestigationGroup(WorldDataSystem.java:70)
+	at emu.grasscutter.game.world.WorldDataSystem.getInvestigationMonster(WorldDataSystem.java:91)
+	at emu.grasscutter.game.world.WorldDataSystem.lambda$getInvestigationMonstersByCityId$7(WorldDataSystem.java:137)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$ValueSpliterator.acceptOnIndex(Int2ObjectOpenHashMap.java:1185)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$ValueSpliterator.acceptOnIndex(Int2ObjectOpenHashMap.java:1168)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$MapSpliterator.forEachRemaining(Int2ObjectOpenHashMap.java:839)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$ValueSpliterator.forEachRemaining(Int2ObjectOpenHashMap.java:1168)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.Nodes$CollectorTask.doLeaf(Nodes.java:2183)
+	at java.base/java.util.stream.Nodes$CollectorTask.doLeaf(Nodes.java:2149)
+	at java.base/java.util.stream.AbstractTask.compute(AbstractTask.java:327)
+	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-08-26T14:24:00Z <ERROR:emu.grasscutter.scripts.ScriptLoader> Loading script .\resources\Scripts\Scene\3\scene3_group133002259.lua failed!
+javax.script.ScriptException: eval threw javax.script.ScriptException: [string "script"]:973: unexpected symbol 47 (/)
+	at org.luaj.vm2.script.LuaScriptEngine.compile(Unknown Source)
+	at emu.grasscutter.scripts.ScriptLoader.getScriptByPath(ScriptLoader.java:124)
+	at emu.grasscutter.scripts.data.SceneGroup.load(SceneGroup.java:87)
+	at emu.grasscutter.game.world.WorldDataSystem.getInvestigationGroup(WorldDataSystem.java:70)
+	at emu.grasscutter.game.world.WorldDataSystem.getInvestigationMonster(WorldDataSystem.java:91)
+	at emu.grasscutter.game.world.WorldDataSystem.lambda$getInvestigationMonstersByCityId$7(WorldDataSystem.java:137)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$ValueSpliterator.acceptOnIndex(Int2ObjectOpenHashMap.java:1185)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$ValueSpliterator.acceptOnIndex(Int2ObjectOpenHashMap.java:1168)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$MapSpliterator.forEachRemaining(Int2ObjectOpenHashMap.java:839)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$ValueSpliterator.forEachRemaining(Int2ObjectOpenHashMap.java:1168)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.Nodes$CollectorTask.doLeaf(Nodes.java:2183)
+	at java.base/java.util.stream.Nodes$CollectorTask.doLeaf(Nodes.java:2149)
+	at java.base/java.util.stream.AbstractTask.compute(AbstractTask.java:327)
+	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-08-26T14:24:15Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-SG.json, falling back to: en-US.json
+2022-08-26T14:28:46Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000070 found.
+2022-08-26T14:28:46Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000070 found.
+2022-08-26T14:28:48Z <WARN:emu.grasscutter.game.managers.energy.EnergyManager> No particle generation data for avatarId 10000070 found.
+2022-08-26T14:37:35Z <INFO:emu.grasscutter.command.CommandHandler> Reloading config.
+2022-08-26T14:37:35Z <INFO:emu.grasscutter.command.CommandHandler> Reload complete.
+2022-08-26T14:42:04Z <INFO:emu.grasscutter.command.CommandHandler> Server shutting down...
+2022-08-26T14:42:04Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from /127.0.0.1:53296
+2022-08-26T14:42:31Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-SG.json, falling back to: en-US.json
+2022-08-26T14:42:32Z <INFO:emu.grasscutter.utils.Language> Loading cached TextMaps
+2022-08-26T14:42:32Z <INFO:emu.grasscutter.data.ResourceLoader> Loading resources...
+2022-08-26T14:42:39Z <INFO:emu.grasscutter.data.ResourceLoader> Finished loading resources.
+2022-08-26T14:42:41Z <INFO:emu.grasscutter.tools.Tools> GM Handbooks generated!
+2022-08-26T14:42:41Z <INFO:emu.grasscutter.Grasscutter> Starting Grasscutter...
+2022-08-26T14:42:41Z <INFO:emu.grasscutter.Grasscutter> Game version: 3.0.0
+2022-08-26T14:42:41Z <INFO:emu.grasscutter.Grasscutter> Grasscutter version: 1.2.3-dev-9768fc84
+2022-08-26T14:42:45Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from /127.0.0.1:62431
+2022-08-26T14:42:47Z <INFO:emu.grasscutter.server.http.HttpServer> [Dispatch] Dispatch server started at [1m[33m127.0.0.1:443[0m
+2022-08-26T14:42:47Z <INFO:emu.grasscutter.server.game.GameServer> Grasscutter is FREE software. If you have paid for this, you may have been scammed. Homepage: https://github.com/Grasscutters/Grasscutter
+2022-08-26T14:42:47Z <INFO:emu.grasscutter.server.game.GameServer> Game Server started at [1m[33m127.0.0.1:22102[0m
+2022-08-26T14:42:47Z <INFO:emu.grasscutter.Grasscutter> Done! For help, type "help"
+2022-08-26T14:42:48Z <INFO:emu.grasscutter.game.activity.ActivityManager> Enable 1 activities.
+2022-08-26T14:42:55Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 127.0.0.1 is trying to log in via token.
+2022-08-26T14:42:55Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$TokenAuthenticator> [Dispatch] Client 127.0.0.1 logged in via token as 10051.
+2022-08-26T14:42:56Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 127.0.0.1 is trying to log in.
+2022-08-26T14:42:56Z <INFO:emu.grasscutter.auth.DefaultAuthenticators$SessionKeyAuthenticator> [Dispatch] Client 127.0.0.1 succeed to exchange combo token.
+2022-08-26T14:42:56Z <INFO:emu.grasscutter.server.http.dispatch.DispatchHandler> [Dispatch] Client 127.0.0.1 is trying to log in.
+2022-08-26T14:42:56Z <INFO:emu.grasscutter.server.http.dispatch.RegionHandler> Client 127.0.0.1 request: query_cur_region/os_usa
+2022-08-26T14:43:05Z <INFO:emu.grasscutter.server.game.GameSession> Client connected from /127.0.0.1:54739
+2022-08-26T14:43:05Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from /127.0.0.1:62431
+2022-08-26T14:43:05Z <WARN:emu.grasscutter.server.packet.recv.HandlerGetPlayerTokenReq> Player nilouseggs69 was kicked due to duplicated login
+2022-08-26T14:43:14Z <ERROR:emu.grasscutter.scripts.ScriptLoader> Loading script .\resources\Scripts\Scene\3\scene3_group133102769.lua failed!
+javax.script.ScriptException: eval threw javax.script.ScriptException: [string "script"]:1304: unexpected symbol 47 (/)
+	at org.luaj.vm2.script.LuaScriptEngine.compile(Unknown Source)
+	at emu.grasscutter.scripts.ScriptLoader.getScriptByPath(ScriptLoader.java:124)
+	at emu.grasscutter.scripts.data.SceneGroup.load(SceneGroup.java:87)
+	at emu.grasscutter.game.world.WorldDataSystem.getInvestigationGroup(WorldDataSystem.java:70)
+	at emu.grasscutter.game.world.WorldDataSystem.getInvestigationMonster(WorldDataSystem.java:91)
+	at emu.grasscutter.game.world.WorldDataSystem.lambda$getInvestigationMonstersByCityId$7(WorldDataSystem.java:137)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$ValueSpliterator.acceptOnIndex(Int2ObjectOpenHashMap.java:1185)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$ValueSpliterator.acceptOnIndex(Int2ObjectOpenHashMap.java:1168)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$MapSpliterator.forEachRemaining(Int2ObjectOpenHashMap.java:839)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$ValueSpliterator.forEachRemaining(Int2ObjectOpenHashMap.java:1168)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.Nodes$CollectorTask.doLeaf(Nodes.java:2183)
+	at java.base/java.util.stream.Nodes$CollectorTask.doLeaf(Nodes.java:2149)
+	at java.base/java.util.stream.AbstractTask.compute(AbstractTask.java:327)
+	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-08-26T14:43:14Z <ERROR:emu.grasscutter.scripts.ScriptLoader> Loading script .\resources\Scripts\Scene\3\scene3_group133002259.lua failed!
+javax.script.ScriptException: eval threw javax.script.ScriptException: [string "script"]:973: unexpected symbol 47 (/)
+	at org.luaj.vm2.script.LuaScriptEngine.compile(Unknown Source)
+	at emu.grasscutter.scripts.ScriptLoader.getScriptByPath(ScriptLoader.java:124)
+	at emu.grasscutter.scripts.data.SceneGroup.load(SceneGroup.java:87)
+	at emu.grasscutter.game.world.WorldDataSystem.getInvestigationGroup(WorldDataSystem.java:70)
+	at emu.grasscutter.game.world.WorldDataSystem.getInvestigationMonster(WorldDataSystem.java:91)
+	at emu.grasscutter.game.world.WorldDataSystem.lambda$getInvestigationMonstersByCityId$7(WorldDataSystem.java:137)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+	at java.base/java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$ValueSpliterator.acceptOnIndex(Int2ObjectOpenHashMap.java:1185)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$ValueSpliterator.acceptOnIndex(Int2ObjectOpenHashMap.java:1168)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$MapSpliterator.forEachRemaining(Int2ObjectOpenHashMap.java:839)
+	at it.unimi.dsi.fastutil.ints.Int2ObjectOpenHashMap$ValueSpliterator.forEachRemaining(Int2ObjectOpenHashMap.java:1168)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499)
+	at java.base/java.util.stream.Nodes$CollectorTask.doLeaf(Nodes.java:2183)
+	at java.base/java.util.stream.Nodes$CollectorTask.doLeaf(Nodes.java:2149)
+	at java.base/java.util.stream.AbstractTask.compute(AbstractTask.java:327)
+	at java.base/java.util.concurrent.CountedCompleter.exec(CountedCompleter.java:754)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165)
+2022-08-26T14:43:36Z <INFO:emu.grasscutter.command.CommandHandler> Server shutting down...
+2022-08-26T14:43:36Z <WARN:emu.grasscutter.utils.Language> Failed to load language file: en-SG.json, falling back to: en-US.json
+2022-08-26T14:43:36Z <INFO:emu.grasscutter.server.game.GameSession> Client disconnected from /127.0.0.1:54739
