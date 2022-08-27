@@ -1,5 +1,5 @@
-// Grasscutter 3.0.0 GM Handbook
-// Created 2022/08/26 18:07:19
+// Grasscutter 3.0.5x beta seggs mod w/ snoo x orange real GM Handbook
+// Created 2022/08/27 16:15:58
 
 // Commands
        account : 创建或删除账号
@@ -8,7 +8,9 @@
          clear : 从你的背包中删除所有未装备且已解锁的物品，包括稀有物品
           coop : 强制传送指定玩家到他人的世界。如果没有指定玩家，则会使你进入多人游戏状态
  enter_dungeon : 进入指定秘境
+         equip : This value does not exist. Please report this to the Discord: commands.equip.description
           give : 向你或指定的玩家给予物品。比如可以给予全部武器，角色和/或材料，也可以给予自定义圣遗物
+       givenew : This value does not exist. Please report this to the Discord: commands.givenew.description
           heal : 治疗当前队伍的角色
           help : 发送帮助信息或显示指定命令的信息
           kick : 从服务器内踢出指定玩家

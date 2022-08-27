@@ -1,5 +1,5 @@
-// Grasscutter 3.0.0 GM Handbook
-// Created 2022/08/26 18:07:19
+// Grasscutter 3.0.5x beta seggs mod w/ snoo x orange real GM Handbook
+// Created 2022/08/27 16:15:58
 
 // Commands
        account : 사용자 계정을 수정합니다
@@ -8,7 +8,9 @@
          clear : 인벤토레에서 잠금된 물건을 제외한 항목을 삭제합니다. 기본적으로 4성, 1레벨, 1재련보다 낮은것만을 기준으로 하지만, 더 높게 설정할 수 있습니다.
           coop : 누군가를 다른 사람의 월드에 참여하도록 합니다. 목표가 지정되지 않으면 당신을 다인 모드로 진입시킵니다.
  enter_dungeon : 던전에 진입합니다.
+         equip : This value does not exist. Please report this to the Discord: commands.equip.description
           give : 지정된 플레이어가 아이템을 획득합니다. 모든 무기, 캐릭터, 재료를 제공할 수 있으며, 맞춤 성유물을 제공할 수도 있습니다.
+       givenew : This value does not exist. Please report this to the Discord: commands.givenew.description
           heal : 파티 내 모든 캐릭터를 치유합니다.
           help : help를 입력하거나, 지정된 명령어에 대한 정보를 표시합니다
           kick : 지정된 플레이어를 서버에서 강제퇴장합니다 (WIP)

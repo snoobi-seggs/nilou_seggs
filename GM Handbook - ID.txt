@@ -1,5 +1,5 @@
-// Grasscutter 3.0.0 GM Handbook
-// Created 2022/08/26 18:07:19
+// Grasscutter 3.0.5x beta seggs mod w/ snoo x orange real GM Handbook
+// Created 2022/08/27 16:15:58
 
 // Commands
        account : Modify user accounts
@@ -8,7 +8,9 @@
          clear : Deletes unequipped unlocked items from your inventory. Defaults to 4* level 1 refinement 1 or lower, but can be set higher.
           coop : Forces someone to join the world of others. If no one is targeted, it sends you into co-op mode anyway.
  enter_dungeon : Enter a dungeon
+         equip : This value does not exist. Please report this to the Discord: commands.equip.description
           give : Gives an item to you or the specified player. Can also give all weapons, avatars and/or materials, and can construct custom artifacts.
+       givenew : This value does not exist. Please report this to the Discord: commands.givenew.description
           heal : Heal all characters in your current team.
           help : Sends the help message or shows information about a specified command
           kick : Kicks the specified player from the server (WIP)

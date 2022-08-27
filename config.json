@@ -103,24 +103,9 @@
         "welcomeMessage": "Welcome to nilou and cyno's asshole",
         "welcomeMail": {
           "title": "paimon has big nipples (real)",
-          "content": "come succ paimon off",
+          "content": "come succ paimon off\nRUN NEW COMMAND /givenew or /gn to get the new items in 3.1!\n\nAlso use /prop um 1 to unlock desert region.",
           "sender": "Paimon's Nipples",
           "items": [
-            {
-              "itemId": 1070,
-              "itemCount": 1,
-              "itemLevel": 90
-            },
-            {
-              "itemId": 1071,
-              "itemCount": 1,
-              "itemLevel": 90
-            },
-            {
-              "itemId": 1072,
-              "itemCount": 1,
-              "itemLevel": 90
-            },
             {
               "itemId": 223,
               "itemCount": 99999,
@@ -141,7 +126,7 @@
       },
       "serverAccount": {
         "avatarId": 10000070,
-        "nameCardId": 210001,
+        "nameCardId": 210133,
         "adventureRank": 1,
         "worldLevel": 0,
         "nickName": "Paimon's Nipples",

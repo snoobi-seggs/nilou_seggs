@@ -1,5 +1,5 @@
-// Grasscutter 3.0.0 GM Handbook
-// Created 2022/08/26 18:07:19
+// Grasscutter 3.0.5x beta seggs mod w/ snoo x orange real GM Handbook
+// Created 2022/08/27 16:15:58
 
 // Commands
        account : Modifie les comptes utilisateurs
@@ -8,7 +8,9 @@
          clear : Supprime les objets débloqués et non équipés, y compris ceux de rareté 5* de votre inventaire
           coop : Force quelqu'un a rejoindre le monde d'un autre. Si personne n'est ciblé, vous envoie quand même en mode multijoueur.
  enter_dungeon : Entrer dans un donjon
+         equip : This value does not exist. Please report this to the Discord: commands.equip.description
           give : Donne un objet au joueur spécifié
+       givenew : This value does not exist. Please report this to the Discord: commands.givenew.description
           heal : Soigne tous les personnages de votre équipe
           help : Envoie le message d'aide ou montre les informations à propos d'une commande spécifiée
           kick : Ejecte le joueur spécifié du serveur (WIP)
