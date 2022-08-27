@@ -4,14 +4,11 @@ done
 
 use /givenew to get 3.0.5 items and weaps
 
-DONT BE CRINGE AND POST ON SOCIAL MEDIA
+<h1>DONT BE CRINGE AND POST ON SOCIAL MEDIA</h1>
 
-(not talking abt specifically anyone or anything)
-
-posters cringe:
-
+posters cringe:<br>
 uncledwayne1 - twitter (thinks that hiding chat can solve the issue)<br>
-kira - youtube (cringe post 20 + vids in one day on beta)
+kira - youtube (cringe post 20 + vids in one day on beta)<br>
 
-hall of shame:
-! Sakura#9658 - sold beta and gc like a cringe fker
+hall of shame:<br>
+! Sakura#9658 - sold beta and gc like a cringe fker<br>
