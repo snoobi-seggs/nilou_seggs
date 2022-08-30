@@ -1,7 +1,6 @@
 <h1>Usage:</h1>
- - click on run.bat
-
-use /givenew to get 3.0.5 items and weaps
+ - click on run.bat<br>
+ - use /givenew to get 3.0.5 items and weaps
 
 <h1>DONT BE CRINGE AND POST ON SOCIAL MEDIA</h1>
 
@@ -12,8 +11,8 @@ kira - youtube (cringe post 20 + vids in one day on beta)<br>
 
 <h3>Hall of shame:</h3>
  - ! Sakura#9658 - sold beta and gc like a cringe fker<br>
-    - attempted to switch usernames but failed<br>
-        - Zero Two#1532<br>
-        - Haruno#9658<br>
+    &nbsp &nbsp &nbsp &nbsp- attempted to switch usernames but failed<br>
+    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp     - Zero Two#1532<br>
+    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp     - Haruno#9658<br>
  - maverick#6430 - a little shit that became rude as fk after receiving help<br>
-   (also the one that got scammed)<br>
+   &nbsp &nbsp &nbsp &nbsp (also the one that got scammed)<br>
