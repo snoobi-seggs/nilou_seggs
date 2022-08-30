@@ -12,8 +12,8 @@ kira - youtube (cringe post 20 + vids in one day on beta)<br>
 
 <h3>Hall of shame:</h3>
  - ! Sakura#9658 - sold beta and gc like a cringe fker<br>
-    - attempted to switch usernames but failed
-        - Zero Two#1532 
-        - Haruno#9658
- - maverick#6430 - a little shit that became rude as fk after receiving help
-   (also the one that got scammed)
+    - attempted to switch usernames but failed<br>
+        - Zero Two#1532<br>
+        - Haruno#9658<br>
+ - maverick#6430 - a little shit that became rude as fk after receiving help<br>
+   (also the one that got scammed)<br>
