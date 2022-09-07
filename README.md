@@ -7,8 +7,8 @@
 <h3>Posters cringe:</h3>
  - uncledwayne1 - twitter (thinks that hiding chat can solve the issue)<br>
 kira - youtube (cringe post 20 + vids in one day on beta)<br>
- - Kira - youtube posting every single pixel of beta
- - oca. - youtube post and block even though he asked before and i said no discord tag: qwety.1#8455
+ - Kira - youtube posting every single pixel of beta<br>
+ - oca. - youtube post and block even though he asked before and i said no discord tag: qwety.1#8455<br>
 
 <h3>Hall of shame:</h3>
  - ! Sakura#9658 - sold beta and gc like a cringe fker<br>
