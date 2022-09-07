@@ -20,6 +20,7 @@ kira - youtube (cringe post 20 + vids in one day on beta)<br>
    
    
 <h3>Updates:</h3><br>
+
 <h4>3/9/2022</h4>
 1)added enka command back<br>
 2)added windy(shit) command<br>
@@ -32,6 +33,6 @@ kira - youtube (cringe post 20 + vids in one day on beta)<br>
 9)hall of shame built into jar file<br>
 
 <h4>8/9/22</h4>
-1)added pause command that doesnt work coz its called client side but still there for nice 
-2)added shittp command to teleport to a location (works same way as /tp) but without a tp cutscene
-3)added freeze command to freeze ur current character and refresh it allowing u to spam burst with /stats freeze cdr 1? why tf does this command even exist bruh its so useless like [sakura maverick kira oca yuuichi]
+1)added pause command that doesnt work coz its called client side but still there for nice<br>
+2)added shittp command to teleport to a location (works same way as /tp) but without a tp cutscene<br>
+3)added freeze command to freeze ur current character and refresh it allowing u to spam burst with /stats freeze cdr 1? why tf does this command even exist bruh its so useless like [sakura maverick kira oca yuuichi]<br>
