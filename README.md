@@ -48,4 +48,4 @@ kira - youtube (cringe post 20 + vids in one day on beta)<br>
 6)paimonbarrier command /pb  to remove paimonial barrier with PacketOpenStateChangeNotify(48,1)<br>
 7)fixed pyramid in src/main/java/emu/grasscutter/server/packet/send/PacketPlayerWorldSceneInfoListNotify.java<br>
 8)added to res point data for 20159 20160 20161 40653<br>
-9)allow /l to look for gadget names also (in en only coz i suc at coding) usage /l <itemName> <type default = "all"><br>
+9)allow /l to look for specific types also (in en only coz i suc at coding) usage /l <itemName> <type default = "all"><br>
