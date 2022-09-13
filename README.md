@@ -9,6 +9,8 @@
 kira - youtube (cringe post 20 + vids in one day on beta)<br>
  - Kira - youtube posting every single pixel of beta<br>
  - oca. - youtube post and block even though he asked before and i said no discord tag: qwety.1#8455<br>
+ - Al haithem - youtube post attempted to hide "paimon nipples" cringe<br>
+ - ruri - another cringe poster ew<br>
 
 <h3>Hall of shame:</h3>
  - ! Sakura#9658 - sold beta and gc like a cringe fker<br>
@@ -36,3 +38,14 @@ kira - youtube (cringe post 20 + vids in one day on beta)<br>
 1)added pause command that doesnt work coz its called client side but still there for nice<br>
 2)added shittp command to teleport to a location (works same way as /tp) but without a tp cutscene<br>
 3)added freeze command to freeze ur current character and refresh it allowing u to spam burst with /stats freeze cdr 1? why tf does this command even exist bruh its so useless like [sakura maverick kira oca yuuichi]<br>
+
+<h4>13/9/22</h4>
+1)dumb enemies in setprop, BUT FAILED coz is client sided, but i left it in still why not.<br>
+2)spawn now will also spawn with random rotations coz nice<br>
+3)shittp now also supports random rotation for no reason at all<br>
+4)killobjects command that kills specific entities /ko [entityType]<br>
+5)brainfuck command added /bf [no.of.fucks] [interval] [radius]<br>
+6)paimonbarrier command /pb  to remove paimonial barrier with PacketOpenStateChangeNotify(48,1)<br>
+7)fixed pyramid in src/main/java/emu/grasscutter/server/packet/send/PacketPlayerWorldSceneInfoListNotify.java<br>
+8)added to res point data for 20159 20160 20161 40653<br>
+9)allow /l to look for gadget names also (in en only coz i suc at coding) usage /l <itemName> <type default = "all"><br>
