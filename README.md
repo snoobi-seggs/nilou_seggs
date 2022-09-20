@@ -1,6 +1,6 @@
 <h1>Usage:</h1>
  - click on run.bat<br>
- - literally is so fking easy idk how Vawx#7574 dont get it-_- joker of the century
+ - literally is so fking easy idk how Vawx#7574 dont get it-_- joker of the century<br>
  - use /givenew to get 3.0.5 items and weaps
 
 <h1>DONT BE CRINGE AND POST ON SOCIAL MEDIA</h1>
