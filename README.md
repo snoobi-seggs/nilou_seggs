@@ -6,7 +6,6 @@
 
 <h2>Hall of shame:</h2>
 <h3>FUCKING SELLER CRINGE</h3>
- - Kira - XLibunX#0007 - thinks that giving this (0 contribution) away for discord nitro is not considered selling since there is no direct transfer of money.<br>
  - ! Sakura#9658 - sold beta and gc like a cringe fker<br>
     &nbsp &nbsp &nbsp &nbsp- attempted to switch usernames but failed<br>
     &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp     - Zero Two#1532<br>
