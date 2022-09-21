@@ -1,9 +1,18 @@
 <h1>Usage:</h1>
  - click on run.bat<br>
- - literally is so fking easy idk how Vawx#7574 dont get it-_- joker of the century<br>
  - use /givenew to get 3.0.5 items and weaps
 
 <h1>DONT BE CRINGE AND POST ON SOCIAL MEDIA</h1>
+
+<h2>Hall of shame:</h2>
+<h3>FUCKING SELLER CRINGE</h3>
+ - Kira - XLibunX#0007 - thinks that giving this (0 contribution) away for discord nitro is not considered selling since there is no direct transfer of money.<br>
+ - ! Sakura#9658 - sold beta and gc like a cringe fker<br>
+    &nbsp &nbsp &nbsp &nbsp- attempted to switch usernames but failed<br>
+    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp     - Zero Two#1532<br>
+    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp     - Haruno#9658<br>
+ - maverick#6430 - a little shit that became rude as fk after receiving help<br>
+   &nbsp &nbsp &nbsp &nbsp (also the one that got scammed)<br>
 
 <h3>Posters cringe:</h3>
  - uncledwayne1 - twitter (thinks that hiding chat can solve the issue)<br>
@@ -13,15 +22,7 @@ kira - youtube (cringe post 20 + vids in one day on beta)<br>
  - Al haithem - youtube post attempted to hide "paimon nipples" cringe<br>
  - ruri - another cringe poster ew<br>
 
-<h3>Hall of shame:</h3>
- - ! Sakura#9658 - sold beta and gc like a cringe fker<br>
-    &nbsp &nbsp &nbsp &nbsp- attempted to switch usernames but failed<br>
-    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp     - Zero Two#1532<br>
-    &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp     - Haruno#9658<br>
- - maverick#6430 - a little shit that became rude as fk after receiving help<br>
-   &nbsp &nbsp &nbsp &nbsp (also the one that got scammed)<br>
-   
-   
+  
 <h3>Updates:</h3><br>
 
 <h4>3/9/2022</h4>
